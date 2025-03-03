@@ -4,5 +4,5 @@ python Finetuning-Entity-Recognition.py \
        assets/train_annotations.csv \
        mistralai/Mistral-7B-Instruct-v0.2 \
        models/Mistral-7B-Instruct-v0.2-AddAnnotations-lora-v0.4/ \
-       400 \
-       500
+       500 \
+       400
